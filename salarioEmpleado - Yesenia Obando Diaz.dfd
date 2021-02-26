@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+51
+'Nómina salarios Contructora Tecnovivir Casas S.A.'
+6
+3
+15
+horasTrabajadas
+1
+0
+10
+precioHora
+5
+30000
+14
+nombreEmpleado
+2
+''
+8
+1
+1
+i
+1
+1
+1
+1
+1
+5
+1
+1
+1
+4
+1
+69
+'Escriba el nombre completo entre comillas simples del empleado ', i 
+5
+1
+14
+nombreEmpleado
+4
+1
+37
+'Digite el total de horas trabajadas'
+5
+1
+15
+horasTrabajadas
+6
+1
+15
+salarioEmpleado
+26
+horasTrabajadas*precioHora
+4
+1
+117
+'El empleado ', i,  ', ',  nombreEmpleado, ',  ', 'recibirá como salario un total de ', salarioEmpleado, ' colones.' 
+10
+1
